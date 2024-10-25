@@ -127,6 +127,50 @@
 - **Prompt Icons**: Indicators for interactable objects (e.g., doors, levers).
 - **Time Manipulation UI**: Effect overlay when using time-based abilities.
 
+## 7. Sounds and Music
+
+### Background Music
+- **Ticktock Village**: Mysterious, ambient music with elements from multiple eras blended subtly.
+- **Past Zone**: Rhythmic, primal music with drums, flutes, and low chanting to evoke an ancient feel.
+- **Present Zone**: Upbeat, modern soundtrack with city sounds, fast beats, and the occasional glitch effect.
+- **Future Zone**: Futuristic, electronic music with synths, mechanical hums, and digital distortions to reflect advanced technology and instability.
+
+### Item Pickup Sounds
+- **Chrono Crystals**: Unique shimmering sound for each zone.
+- **Ticktock Village Artifacts**: Soft chime with hints of ancient instruments.
+- **Past Zone Relics**: Hollow, echoing sound with a metallic resonance.
+- **Present Zone Tools**: Modern sound with a short click or beep.
+- **Future Zone Gadgets**: Futuristic pickup sound with a digital zap.
+
+### Interaction Sounds
+- **Levers and Switches**: Mechanical clank for ancient, soft click for modern, digital beep for future.
+- **Door Opening**: Varies by zone, with wooden creaks, heavy metal, or electronic sliding sounds.
+- **Puzzle Solving**: Success chime, adjusted per zone’s theme.
+
+### Enemy Sounds
+- **Hit/Kill Sounds**:
+    - **Ticktock Village Phantoms**: Ethereal wail when hit, fading whisper when defeated.
+    - **Past Zone Dinosaurs**: Roars and growls when hit, echoing thud when defeated.
+    - **Medieval Knights**: Armor clanging when hit, heavy metal collapse on defeat.
+    - **Future Zone Drones/Robots**: Electric spark when hit, malfunctioning glitch sound on defeat.
+
+### Character Movement
+- **Walking**: Soft steps adjusted for surfaces (e.g., cobblestone, dirt, metal).
+- **Running**: Faster, heavier footstep sounds with slight echoes depending on environment.
+- **Jumping**: Small grunt sound with a whoosh effect.
+- **Climbing**: Subtle gripping and sliding sounds, adjusted per surface type (e.g., stone wall, metal ladder).
+
+### Abilities
+- **Time Jump**: Quick rewind effect, with echoes for past jumps and glitches for future jumps.
+- **Time Slow**: Deep hum or vibrating sound to reflect slowed surroundings.
+- **Time Restore**: Subtle rewind sound, blending with environment sounds as time returns to its prior state.
+
+### Environmental Sounds
+- **Ticktock Village Ambience**: Birds, distant chatter, ticking of the Great Time Clock.
+- **Past Zone**: Nature sounds, roaring dinosaurs, ancient mechanisms clicking.
+- **Present Zone**: City traffic, distant horns, subway rumbling, pedestrian chatter.
+- **Future Zone**: Electronic hums, beeping, static from malfunctioning devices, robot chatter.
+
 ---
 
 Created by **Mathijs Wouters**
