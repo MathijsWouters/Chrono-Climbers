@@ -30,3 +30,5 @@ Players must solve puzzles and defeat enemies to collect **Chrono Crystals**. Ea
 
 Created by **Mathijs Wouters**
 
+Status: Updated
+
